@@ -1,0 +1,3 @@
+Ali Can: 70.0
+Ali Bal: 80.0
+Ali Şeker: 90.0
